@@ -16,7 +16,7 @@ struct Args {
 	mod_name: Option<String>,
 }
 
-const MOD_NAME: &str = "$MOD_NAME$";
+const MOD_NAME: &str = "Template Mod";
 const MOD_CLASS_NAME: &str = "TemplateMod";
 const MOD_NAMESPACE: &str = "templatemod";
 
